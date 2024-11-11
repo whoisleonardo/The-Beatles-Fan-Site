@@ -34,10 +34,10 @@ This project is licensed under the MIT License — feel free to use or modify th
 
 ## Technologies
 
-- **HTML5: Structure of the web pages.
-- **CSS3: Styling and layout, including responsive design using media queries.
+- HTML5: Structure of the web pages.
+- CSS3: Styling and layout, including responsive design using media queries.
 
 ## Acknowledgments
 
-- **Thanks to the course instructors for their guidance during the exam.
-- **Special thanks to my peers for their feedback and support.
+- Thanks to the course instructors for their guidance during the exam.
+- Special thanks to my peers for their feedback and support.
